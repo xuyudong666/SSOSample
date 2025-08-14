@@ -1,0 +1,6 @@
+@xyd.SSOSample_HostAddress = http://localhost:5142
+
+GET {{xyd.SSOSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
